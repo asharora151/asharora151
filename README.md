@@ -5,8 +5,6 @@
 Welcome to the Ashish's Analysis Production.
 </h1> 
 
-## My Name is Ashish Arora and I am a Data Scientist! 
-
 <div id="header" align="center">
   <img src="https://i.pinimg.com/236x/01/c4/33/01c433737abe61947413d1247c89e606.jpg" width="150"/>
 </div>
@@ -26,8 +24,8 @@ Welcome to the Ashish's Analysis Production.
 <img src="https://komarev.com/ghpvc/?username=your-github-asharora151&style=flat-square&color=blue" , alt=""/>
 </div>
 
-## :woman_technologist: About Me 
-- :telescope: Currently, I am working as a Supply Chain analyst and have a postgraduate degree in Data Science from III-T Bangalore. Seeking a Data Analyst/Scientist position. 
+## :woman_technologist: About Me
+- :telescope: My Name is Ashish Arora. I am working as a Supply Chain analyst and have a postgraduate degree in Data Science from III-T Bangalore. Seeking a Data Analyst/Scientist position. 
 
 - :seedling: Exploring Machine Learning and Artificial Intelligence.
 
