@@ -6,7 +6,8 @@ Welcome to the Ashish's Analysis Production.
 </h1> 
 
 <div id="header" align="center">
-  <img src="ashish profile.png" width="150"/>
+  <img src="![Alt Text](https://drive.google.com/uc?export=view&id=1uizpKDLbqy-X5GHFkxgNjFOX1zCIftGP)
+" width="150"/>
 </div>
 
 <div id="badges", align="center">
@@ -32,7 +33,7 @@ Welcome to the Ashish's Analysis Production.
 - :zap: In my free time, I write blogs, explore the world of geopolitics, or run a Music creator channel on Instagram and Spotify.
 
 - :Writing Hand: Blogs:  <a href="https://medium.com/@ashisharora2204">
-    <img src="![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)" alt="Medium Badge"/>
+    <img src="https://img.shields.io/badge/Medium-black?style=plastic&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
 
 - :mailbox: How to reach me: <a href="https://www.linkedin.com/in/ashish-arora-8332479b/">
