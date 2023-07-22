@@ -6,7 +6,7 @@ Welcome to the Ashish's Analysis Production.
 </h1> 
 
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/236x/01/c4/33/01c433737abe61947413d1247c89e606.jpg" width="150"/>
+  <img src="https://drive.google.com/file/d/1uizpKDLbqy-X5GHFkxgNjFOX1zCIftGP/view" width="150"/>
 </div>
 
 <div id="badges", align="center">
