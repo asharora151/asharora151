@@ -28,11 +28,11 @@ Hi! My Name is Ashish Arora and I am a Data Scientist! Welcome to the Ashish's A
 </div>
 
 ## :woman_technologist: About Me 
-- :telescope: I’m a supply chain analyst which a post graduate degree in Data Science. Seeking a Data Analyst/Scientist position. 
+- :telescope: I’m a supply chain analyst which a postgraduate degree in Data Science. Seeking a Data Analyst/Scientist position. 
 
 - :seedling: Exploring Machine Learning and Artificial Intelligence.
 
-- :zap: In my free time, I write blogs, explore the world geopolitics, or run a Music creator channel on Instagram and spotify.
+- :zap: In my free time, I write blogs, explore the world of geo-politics, or run a Music creator channel on Instagram and Spotify.
 
 - :Writing Hand: Blogs: [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/mamta-kumari-432337129/))
 
