@@ -31,8 +31,8 @@ Welcome to the Ashish's Analysis Production.
 
 - :zap: In my free time, I write blogs, explore the world of geopolitics, or run a Music creator channel on Instagram and Spotify.
 
-- :Writing Hand: Blogs:  <a href="https://public.tableau.com/app/profile/ashish.arora8737">
-    <img src="https://medium.com/@ashisharora2204" alt="Medium Badge"/>
+- :Writing Hand: Blogs:  <a href="https://medium.com/@ashisharora2204">
+    <img src="![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)" alt="Medium Badge"/>
   </a>
 
 - :mailbox: How to reach me: <a href="https://www.linkedin.com/in/ashish-arora-8332479b/">
