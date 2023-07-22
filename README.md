@@ -6,9 +6,9 @@ Welcome to the Ashish's Analysis Production.
 </h1> 
 
 <div id="header" align="center">
-  <img src="![Alt Text](https://drive.google.com/uc?export=view&id=1uizpKDLbqy-X5GHFkxgNjFOX1zCIftGP)
-" width="150"/>
+  <img src="https://drive.google.com/uc?export=view&id=1uizpKDLbqy-X5GHFkxgNjFOX1zCIftGP" alt="Alt Text" width="150" />
 </div>
+
 
 <div id="badges", align="center">
   <a href="https://www.linkedin.com/in/ashish-arora-8332479b/">
