@@ -2,9 +2,10 @@
 
 
 <h1>
-Hi! My Name is Ashish Arora and I am a Data Scientist! Welcome to the Ashish's Analysis Production.
+Welcome to the Ashish's Analysis Production.
 </h1> 
 
+## My Name is Ashish Arora and I am a Data Scientist! 
 
 <div id="header" align="center">
   <img src="https://i.pinimg.com/236x/01/c4/33/01c433737abe61947413d1247c89e606.jpg" width="150"/>
@@ -26,15 +27,19 @@ Hi! My Name is Ashish Arora and I am a Data Scientist! Welcome to the Ashish's A
 </div>
 
 ## :woman_technologist: About Me 
-- :telescope: I’m a supply chain analyst which a postgraduate degree in Data Science. Seeking a Data Analyst/Scientist position. 
+- :telescope: Currently, I am working as a Supply Chain analyst and have a postgraduate degree in Data Science from III-T Bangalore. Seeking a Data Analyst/Scientist position. 
 
 - :seedling: Exploring Machine Learning and Artificial Intelligence.
 
-- :zap: In my free time, I write blogs, explore the world of geo-politics, or run a Music creator channel on Instagram and Spotify.
+- :zap: In my free time, I write blogs, explore the world of geopolitics, or run a Music creator channel on Instagram and Spotify.
 
-- :Writing Hand: Blogs: [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/mamta-kumari-432337129/))
+- :Writing Hand: Blogs:  <a href="https://public.tableau.com/app/profile/ashish.arora8737">
+    <img src="https://medium.com/@ashisharora2204" alt="Medium Badge"/>
+  </a>
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]([your-medium-url](https://medium.com/@ashisharora2204))
+- :mailbox: How to reach me: <a href="https://www.linkedin.com/in/ashish-arora-8332479b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 ## :hammer_and_wrench: Languages and Tools
 
