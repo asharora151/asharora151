@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**asharora151/asharora151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1>
 Hi! My Name is Ashish Arora and I am a Data Scientist! Welcome to the Ashish's Analysis Production.
