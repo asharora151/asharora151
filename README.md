@@ -26,11 +26,9 @@ Hello Everyone!
 </div>
 
 ## :woman_technologist: About Me
-- :telescope: My Name is Ashish Arora. I am working as a Supply Chain analyst and have a postgraduate degree in Data Science from III-T Bangalore. Seeking a Data Analyst/Scientist position. 
+- :telescope: Experienced supply chain analyst with a 4-year background in data analytics, supported by robust skills in linear algebra, statistics, and machine learning. Proficient in Python, SQL, Tableau, Power BI, and Apache PySpark. Actively honing expertise in NLP and CV to tackle OCR challenges. Accomplished in diverse tasks such as web scraping, sentiment analysis, reporting dashboards, and predictive modeling. 
 
 - :seedling: Exploring Machine Learning and Artificial Intelligence.
-
-- :zap: In my free time, I write blogs, explore the world of geopolitics, or run a Music creator channel on Instagram and Spotify.
 
 - :Writing Hand: Blogs:  <a href="https://medium.com/@ashisharora2204">
     <img src="https://img.shields.io/badge/Medium-black?style=plastic&logo=medium&logoColor=white" alt="Medium Badge"/>
